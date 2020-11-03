@@ -19,4 +19,5 @@ a =1
 # edit in master and dev
 
 # %% rebase 
-# master added rebase stuff r
+# master added rebase stuff 
+# git rebase dev --> but it is dangerous 
