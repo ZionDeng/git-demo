@@ -32,6 +32,10 @@ a =1
 # $ git stash pop to get the changes back 
 
 # %% link github 
-# add a repo in github 
+# add a repo in github, don't add the README file
 # $ git remote add origin [link]
 # $ git push -u origin master
+
+# you can view history code and so on 
+# commit changes, then 
+# $ git push -u origin master -> view on github
