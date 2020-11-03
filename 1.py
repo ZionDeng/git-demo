@@ -25,6 +25,9 @@ a =1
 
 # %% stash temporary revise
 
-# doing things, get boss' job 
+# doing things, boss' temp job
+# $ git stash -> save temporarily 
 # be used to debug, lovely boss 
+
+# $ git stash pop to get the changes back 
 
