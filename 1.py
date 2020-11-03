@@ -31,3 +31,7 @@ a =1
 
 # $ git stash pop to get the changes back 
 
+# %% link github 
+# add a repo in github 
+# $ git remote add origin [link]
+# $ git push -u origin master
