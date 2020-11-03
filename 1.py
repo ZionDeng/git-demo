@@ -2,6 +2,7 @@ a =1
 # add another comment
 # use vs code to git 
 # changed in dev branch 
+
 # %% branch 
 
 # git checkout -b branch_name -> build a branch and switch to it
@@ -14,3 +15,6 @@ a =1
 # %% conflict situation 
 
 # we have 2 branch now, panda and dev
+# git merge dev -> see the conflict 
+# edit in master and dev
+
