@@ -18,3 +18,5 @@ a =1
 # git merge dev -> see the conflict 
 # edit in master and dev
 
+# %% rebase 
+# master added rebase stuff r
