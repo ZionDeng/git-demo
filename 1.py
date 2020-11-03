@@ -3,6 +3,7 @@ a =1
 # use vs code to git 
 # changed in dev branch 
 
+
 # %% branch 
 
 # git checkout -b branch_name -> build a branch and switch to it
@@ -24,5 +25,6 @@ a =1
 
 # %% stash temporary revise
 
+# doing things, get boss' job 
 # be used to debug, lovely boss 
 
