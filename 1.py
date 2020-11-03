@@ -23,3 +23,6 @@ a =1
 # git rebase dev --> but it is dangerous 
 
 # %% stash temporary revise
+
+# be used to debug, lovely boss 
+
